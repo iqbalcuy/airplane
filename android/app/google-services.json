@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "235267525599",
+    "project_id": "airplane-85e94",
+    "storage_bucket": "airplane-85e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235267525599:android:08f08f812b5c36c907926a",
+        "android_client_info": {
+          "package_name": "com.iqbalanwar.aiplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235267525599-f4rn0tvf74enfj7dbd3rqb1ptu4ppjkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaxjEViq0-aN9fplWW-w4U7n4lP5BZ6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235267525599-f4rn0tvf74enfj7dbd3rqb1ptu4ppjkm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235267525599-e9m89scjh407f11klqcv09mkjmrvl812.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqbalanwar.airplane"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
